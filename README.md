@@ -27,7 +27,7 @@ usage
           1440,  900
   
   > ChangeResolution.exe 640 480
-  change resolution width=1280, height=720
+  change resolution width=640, height=480
   success!
 
 </pre>
